@@ -5,4 +5,4 @@ Git tracks changes.
 Git tracks changes1.
 My  boss still prefers SVN.
 
-ÃÌº”‘∂≥Ã
+Creating a new branch is quick & simple.
